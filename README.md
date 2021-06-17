@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
-- 📝 I regularly write articles on [blog.litdev.nl](blog.litdev.nl)
+- 📝 I regularly write articles on [blog.litdev.nl](https://blog.litdev.nl)
 
 - 💬 Ask me about **Go, Java and Python**
 
