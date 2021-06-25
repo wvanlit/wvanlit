@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MiniCoin, a simple cryptocurrency written in Go](https://github.com/wvanlit/MiniCoin)
 
-- 🌱 I’m currently learning **Javascript & Vue.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
