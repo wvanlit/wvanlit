@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
-- 🔭 I’m currently not working on a project
+- 🔭 I’m currently not working on a personal project
 - 🌱 I’m currently learning **DevOps** & **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
