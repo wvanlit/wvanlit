@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently not working on a personal project
 - 🌱 I’m currently learning **DevOps** & **React**
+- 💻 My website is [litdev.nl](https://litdev.nl)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
