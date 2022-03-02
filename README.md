@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
 - 🔭 I’m currently not working on a personal project
-- 🌱 I’m currently learning **DevOps** & **React**
+- 🌱 I’m currently learning **Svelte** & **C#/.NET**
 - 💻 My website is [litdev.nl](https://litdev.nl)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
 - 📝 I sometimes write articles on [blog.litdev.nl](https://blog.litdev.nl)
 
-- 💬 Ask me about **Go, Java and Python**
+- 💬 Ask me about **Javascript, Python, Go and Java**
 
 - 📫 Reach me @ **wessel@litdev.nl**
 
