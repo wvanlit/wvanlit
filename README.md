@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
-- 📝 I sometimes write articles on [blog.litdev.nl](https://blog.litdev.nl)
-
 - 💬 Ask me about **Javascript, Python, Go and Java**
 
 - 📫 Reach me @ **wessel@litdev.nl**
