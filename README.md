@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
-- 🔭 I’m currently not working on a personal project
+- 🔭 I’m currently working on rebuilding my personal website
 - 🌱 I’m currently learning **Svelte** & **C#/.NET**
-- 💻 My website is [litdev.nl](https://litdev.nl)
+- 💻 My website is [litdev.nl](https://litdev.nl) (outdated)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
