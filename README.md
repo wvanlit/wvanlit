@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
-- 🔭 I’m currently working on rebuilding my personal website
+- 🔭 I’m currently working on [Mazes!](https://github.com/wvanlit/MazeGenerator)
 - 🌱 I’m currently learning **Svelte** & **C#/.NET**
 - 💻 My website is [litdev.nl](https://litdev.nl) (outdated)
 
