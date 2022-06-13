@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
 - 🔭 I’m currently working on [Mazes!](https://github.com/wvanlit/MazeGenerator)
-- 🌱 I’m currently learning **Svelte** & **C#/.NET**
+- 🌱 I’m currently learning **Procedural Generation** & **Haxe**
 - 💻 My website is [litdev.nl](https://litdev.nl) (outdated)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
-- 💬 Ask me about **Javascript, Python, Go and Java**
+- 💬 Ask me about **C#, Javascript/Typescript, Python, Go and Java**
 
 - 📫 Reach me @ **wessel@litdev.nl**
 
