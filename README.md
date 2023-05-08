@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
-- 🔭 I’m currently working on [Mazes!](https://github.com/wvanlit/MazeGenerator)
-- 🌱 I’m currently learning **Procedural Generation** & **Haxe**
-- 💻 My website is [litdev.nl](https://litdev.nl) (outdated)
+- 🔭 I’m currently working on [creating programming languages](https://github.com/wvanlit/build-your-own-lisp)
+- 🌱 I’m currently studying **Interpreters/Compilers** & **Event Sourcing**
+- 💻 My website is [litdev.nl](https://litdev.nl) (slightly outdated)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 
-- 💬 Ask me about **C#, Javascript/Typescript, Python, Go and Java**
+- 💬 Ask me about **C#, F#, Javascript/Typescript, Python, Go and Java**
 
 - 📫 Reach me @ **wessel@litdev.nl**
 
