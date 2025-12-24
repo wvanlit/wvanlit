@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wvanlit&label=Profile%20views&color=0e75b6&style=flat" alt="wvanlit" /> </p>
 
-- 💻 My website is [litdev.bearblog.dev](https://litdev.bearblog.dev/)
+- 💻 My website is [litdev.nl](https://litdev.nl/)
 - 👨‍💻 All of my projects are available at [https://github.com/wvanlit](https://github.com/wvanlit)
 - 📫 Reach me @ **wessel@litdev.nl**
 
